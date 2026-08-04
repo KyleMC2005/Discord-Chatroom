@@ -8,8 +8,11 @@ To run it for yourself, you must simply run the server file, and then go to the 
 
 Examples of some of the screens as depicted below:  
 
-This is the login screen
-<img width="797" height="628" alt="image" src="https://github.com/user-attachments/assets/6dea70f9-ef86-476a-998d-b30620885185" />  
+This is the login screen  
 
-This is two people having a conversation with each other simulated through 2 instances of the program
+<img width="797" height="628" alt="image" src="https://github.com/user-attachments/assets/6dea70f9-ef86-476a-998d-b30620885185" />   
+
+---
+This is two people having a conversation with each other simulated through 2 instances of the program  
+
 <img width="1905" height="1030" alt="image" src="https://github.com/user-attachments/assets/e902f97f-2e65-4c50-b41b-7ce01a341d4b" />
