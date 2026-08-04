@@ -3,6 +3,7 @@ Some of the functionality includes calls, video calls, live streaming, sending i
 To run it for yourself, you must simply run the server file, and then go to the Client class and run the GUI configuration to enter a login screen, from there any username will do, and you can chat and use it as you please.
 Examples of some of the screens as depicted below:
 <img width="797" height="628" alt="image" src="https://github.com/user-attachments/assets/6dea70f9-ef86-476a-998d-b30620885185" />
+
 This is the login screen
 
 This is two people having a conversation with each other simulated through 2 instances of the program
