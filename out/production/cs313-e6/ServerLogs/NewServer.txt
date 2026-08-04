@@ -1,0 +1,2 @@
+example1: hi
+test: /chatrooms
